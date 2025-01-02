@@ -368,7 +368,7 @@ h1 {
   }
 
   .analogDesc {
-    margin: auto 20px;
+    margin: auto 0 auto 20px;
   }  
 }
 
@@ -390,7 +390,6 @@ h1 {
   .photoGallery {
     max-width: 100%;
   }
-
 }
 
 @media  (min-height: 700px) and (min-width: 1750px) {

@@ -1,4 +1,4 @@
-# Digital Media & Technology Professional Portfolio
+# Video & Technology Professional Portfolio
 
 ## Screenshots
 

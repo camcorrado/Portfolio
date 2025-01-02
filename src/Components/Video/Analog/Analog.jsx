@@ -11,12 +11,12 @@ export default class Analog extends Component {
         </section>
         <section className="analogDesc">
           <p>
-            My passion for VHS and analog media is a key part of my creative
-            process. I curate a personal collection of VHS tapes, focusing on
-            genres such as horror, LGBTQ+ themes, nostalgic titles, and rare,
-            obscure films. The distinct textures and playback characteristics of
+            My passion for analog media is a key part of my creative process. I
+            curate a personal collection of VHS tapes, focusing on genres such
+            as horror, LGBTQ+ themes, nostalgic titles, and rare, obscure
+            content. The distinct artifacts and playback characteristics of
             analog media often serve as inspiration for my modern projects,
-            where I incorporate these elements to evoke a retro aesthetic.
+            where I incorporate these elements to evoke a retro feel.
           </p>
           <p>
             In addition to my collection, I specialize in the restoration and

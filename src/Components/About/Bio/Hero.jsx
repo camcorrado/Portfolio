@@ -18,42 +18,36 @@ export default class Hero extends Component {
         <section className="bio">
           <p>
             As a technically-minded professional with over a decade of
-            experience, my career has always revolved around solving problems,
-            improving workflows, organizational prowess, and making complex
-            systems run as efficiently as possible.
+            experience, my career has centered on bridging the digital divide by
+            leveraging technology and storytelling.
           </p>
           <p>
             A Bachelor of Arts in Film & Media Studies from SUNY Purchase laid
-            the groundwork for my career, giving me a deep understanding of the
-            technical side of media production: from managing complex video
-            workflows to mastering tools like Adobe Premiere Pro and After
-            Effects. My work has ranged from the end-to-end production of
-            educational children’s music videos with Music with Miss Merry to
-            supporting LGBTQ+ creators with TIM Global, always focusing on the
-            effective use of technology to deliver polished, impactful content.
+            the foundation for my career, equipping me with a deep understanding
+            of the technical and creative aspects of video production. My work
+            ranges from the end-to-end production of educational children’s
+            music videos with Music with Miss Merry to supporting LGBTQ+
+            creators through TIM Global; always focusing on the effective use of
+            video and technology to create impactful content.
           </p>
           <p>
-            My technical expertise extends beyond media production into
-            Full-Stack Web Development, where I’ve gained proficiency in HTML,
-            CSS, JavaScript, React, and SQL. I’ve built numerous user-friendly,
-            interactive websites that translate complex ideas into functional
-            and visually engaging designs - including this very site you’re
-            visiting right now!
+            My technical expertise also extends into Full-Stack Web Development,
+            where I’ve built user-friendly, interactive apps and websites with
+            HTML, CSS, JavaScript, React, and SQL - including this very site
+            you’re visiting today! I am also passionate about preserving analog
+            media through digitization, ensuring endangered formats like VHS are
+            saved for future generations.
           </p>
           <p>
-            The common thread in all my work has been a deep understanding of
-            technology and how to leverage it effectively. With a solid
-            foundation in technical skills and a passion for continuous
-            learning, I’m currently working toward certifications in IT support
-            through Google’s IT Support Professional Certificate, along with A+
-            (Hardware/Software), Network+, and Security+ certifications via
-            CompTIA.
+            Currently, I’m pursuing IT certifications, including Google’s IT
+            Support Professional Certificate and CompTIA’s A+, Network+, and
+            Security+ certifications, to further expand my knowledge and skills.
           </p>
           <p>
             In my free time, you’ll find me playing board and video games with
             friends, relaxing in my hammock with my cat, attracting wildlife to
-            my garden, hunting for forgotten treasures at yard sales, digitizing
-            endangered media, or enjoying some questionably good horror movies.
+            my garden, treasure-hunting at yard sales, or enjoying some
+            questionably good horror movies.
           </p>
           <p>
             Thanks for stopping by! I look forward to connecting and seeing how
