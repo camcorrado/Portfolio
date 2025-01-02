@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![Landing Page](https://i.imgur.com/ZSZ5IoM.png)
+![Landing Page](https://i.imgur.com/Olp1WdG.png)
 
 ## Built With
 
