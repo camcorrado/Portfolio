@@ -25,10 +25,16 @@ export default class Hero extends Component {
             A Bachelor of Arts in Film & Media Studies from SUNY Purchase laid
             the foundation for my career, equipping me with a deep understanding
             of the technical and creative aspects of video production. My work
-            ranges from the end-to-end production of educational children’s
-            music videos with Music with Miss Merry to supporting LGBTQ+
-            creators through TIM Global; always focusing on the effective use of
-            video and technology to create impactful content.
+            ranges from providing expert IT support with an empathic approach at
+            Helpt, the end-to-end production of educational children’s music
+            videos with Music with Miss Merry, and supporting LGBTQ+ creators
+            through TIM Global; always focusing on the effective use of video
+            and technology to create impactful content.
+          </p>
+          <p>
+            Currently, I’m pursuing IT certifications, including Google’s IT
+            Support Professional certification and CompTIA’s A+, Network+, and
+            Security+ certifications, to further expand my knowledge and skills.
           </p>
           <p>
             My technical expertise also extends into Full-Stack Web Development,
@@ -37,11 +43,6 @@ export default class Hero extends Component {
             you’re visiting today! I am also passionate about preserving analog
             media through digitization, ensuring endangered formats like VHS are
             saved for future generations.
-          </p>
-          <p>
-            Currently, I’m pursuing IT certifications, including Google’s IT
-            Support Professional Certificate and CompTIA’s A+, Network+, and
-            Security+ certifications, to further expand my knowledge and skills.
           </p>
           <p>
             In my free time, you’ll find me playing board and video games with
