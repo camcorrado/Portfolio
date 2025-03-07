@@ -1,4 +1,4 @@
-import PORTFOLIO from "./Pics/PortfolioLanding.png";
+import PORTFOLIO from "./Pics/PortfolioLanding.jpg";
 import MEMORY from "./Pics/MemoryGame.png";
 import UICHALLENGES from "./Pics/UIChallenges.png";
 import DBD from "./Pics/DBDQuiz.png";
